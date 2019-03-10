@@ -1,0 +1,90 @@
+body {
+ font-family: "Montserrat";
+ text-align: center;
+}
+
+#title {
+  /* background-color: #ff4c68; */
+  color: #fff;
+  padding-top: 2.5rem;
+  background-image: url("../images/BG.jpg");
+}
+
+h1 {
+font-family: 'Montserrat', sans-serif;
+font-weight: 900;
+font-size: 3.5rem;
+line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: Montserrat;
+  font-size: 1.2rem;
+}
+
+/* Download buttons */
+
+.link-button {
+  margin: 5% 3% 5% 0%;
+}
+
+/* Title image */
+
+.title-image {
+  width: 75%;
+  padding-top: 10px;
+}
+
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover  {
+  color: #ff4c68;
+}
+
+#Image {
+
+}
+
+hr {
+  width: 0%
+}
